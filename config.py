@@ -1,0 +1,7 @@
+NAME_SESSION = "telegram_session"
+API_ID = 0
+API_HASH = ""
+
+BOT_TOKEN = ""
+
+MAIN_ADMIN = 5916601964
